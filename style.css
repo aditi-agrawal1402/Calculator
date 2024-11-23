@@ -9,6 +9,11 @@
     width: auto;
     border: 2px solid black;
     margin: 20px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50px;
+    padding: 2px;
 }
 
 .keys{
